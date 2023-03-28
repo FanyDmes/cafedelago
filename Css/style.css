@@ -25,6 +25,7 @@ p{
     color:rgb(77, 64, 88);
     margin-left: 20px;
 }
+
 h2{
     text-align: center;
 }
@@ -45,19 +46,28 @@ footer{
 }
 #logo{
     width: 60%;
-    margin-left: 260px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block; 
+    margin: auto;
+
+   
 }
 
 #desayuno{
     padding-top: 20px;
-    margin-left: 520px;
     padding-bottom: 20px;
+    display: block; 
+    margin: auto;
+
 }
 
 #delivery{
     padding-top: 20px;
-    margin-left: 520px;
     padding-bottom: 20px;
+    display: block; 
+    margin: auto;
+
 }
 .aheader{
     font-size: 25px;
