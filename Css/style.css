@@ -21,8 +21,14 @@ h1 {
 }
 
 p{
+    text-align: center;
     color:rgb(77, 64, 88);
+    margin-left: 20px;
 }
+h2{
+    text-align: center;
+}
+
 
 footer{
     background: rgb(242,219,101);
@@ -38,9 +44,21 @@ footer{
 
 }
 #logo{
-    width: 100%;
+    width: 60%;
+    margin-left: 260px;
 }
 
+#desayuno{
+    padding-top: 20px;
+    margin-left: 520px;
+    padding-bottom: 20px;
+}
+
+#delivery{
+    padding-top: 20px;
+    margin-left: 520px;
+    padding-bottom: 20px;
+}
 .aheader{
     font-size: 25px;
     color: rgb(77, 78, 82);
