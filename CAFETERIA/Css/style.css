@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+header {
+    background: rgb(242,219,101);
+    background: radial-gradient(circle, rgb(243, 225, 133) 0%, rgb(201, 221, 243) 100%);
+    font-size: 30px;   
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(77, 64, 88);
+    
+}
+
+p{
+    color:rgb(77, 64, 88);
+}
+
+footer{
+    background: rgb(242,219,101);
+    background: radial-gradient(circle, rgb(243, 225, 133) 0%, rgb(201, 221, 243) 100%);
+    text-align: center;
+    color: F#00000033;
+    font-size: 25px;
+}
+
+#titulo{
+    padding-inline-start: 1%;
+    color: rgb(118, 86, 148);
+
+}
+#logo{
+    width: 100%;
+}
+
+.aheader{
+    font-size: 25px;
+    color: rgb(77, 78, 82);
+    text-decoration: none;
+    margin:2px;
+
+}
+form{
+    text-align: center;
+    text-indent: 0%;
+}
+#reservasfoto{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 20%;
+}
+
+#menu{
+    margin-top: 2%;
+    padding-left: 20%;
+}
